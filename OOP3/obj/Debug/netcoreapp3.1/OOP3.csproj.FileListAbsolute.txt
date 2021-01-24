@@ -1,0 +1,12 @@
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/bin/Debug/netcoreapp3.1/OOP3.deps.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/bin/Debug/netcoreapp3.1/OOP3.runtimeconfig.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/bin/Debug/netcoreapp3.1/OOP3.runtimeconfig.dev.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/bin/Debug/netcoreapp3.1/OOP3.dll
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/bin/Debug/netcoreapp3.1/OOP3.pdb
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/obj/Debug/netcoreapp3.1/OOP3.csprojAssemblyReference.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/obj/Debug/netcoreapp3.1/OOP3.AssemblyInfoInputs.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/obj/Debug/netcoreapp3.1/OOP3.AssemblyInfo.cs
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/obj/Debug/netcoreapp3.1/OOP3.csproj.CoreCompileInputs.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/obj/Debug/netcoreapp3.1/OOP3.dll
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/obj/Debug/netcoreapp3.1/OOP3.pdb
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/OOP3/obj/Debug/netcoreapp3.1/OOP3.genruntimeconfig.cache

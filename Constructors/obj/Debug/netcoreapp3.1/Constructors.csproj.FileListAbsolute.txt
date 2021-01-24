@@ -1,0 +1,12 @@
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/bin/Debug/netcoreapp3.1/Constructors.deps.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/bin/Debug/netcoreapp3.1/Constructors.runtimeconfig.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/bin/Debug/netcoreapp3.1/Constructors.runtimeconfig.dev.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/bin/Debug/netcoreapp3.1/Constructors.dll
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/bin/Debug/netcoreapp3.1/Constructors.pdb
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/obj/Debug/netcoreapp3.1/Constructors.csprojAssemblyReference.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/obj/Debug/netcoreapp3.1/Constructors.AssemblyInfoInputs.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/obj/Debug/netcoreapp3.1/Constructors.AssemblyInfo.cs
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/obj/Debug/netcoreapp3.1/Constructors.csproj.CoreCompileInputs.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/obj/Debug/netcoreapp3.1/Constructors.dll
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/obj/Debug/netcoreapp3.1/Constructors.pdb
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/Constructors/obj/Debug/netcoreapp3.1/Constructors.genruntimeconfig.cache

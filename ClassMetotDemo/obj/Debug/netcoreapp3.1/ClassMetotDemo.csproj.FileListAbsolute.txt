@@ -1,0 +1,12 @@
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.deps.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.runtimeconfig.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.runtimeconfig.dev.json
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.dll
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/bin/Debug/netcoreapp3.1/ClassMetotDemo.pdb
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.csprojAssemblyReference.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.AssemblyInfoInputs.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.AssemblyInfo.cs
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.csproj.CoreCompileInputs.cache
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.dll
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.pdb
+/Users/berkbasarir/Yandex.Disk.localized/99 Kişisel - BB/01 Kişiler/02 Berk Başarır/08 Eğitim/YazilimGelistirmeKampı/KampIntro/ClassMetotDemo/obj/Debug/netcoreapp3.1/ClassMetotDemo.genruntimeconfig.cache
