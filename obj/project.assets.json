@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "HW6/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HW6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HW6.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HW6/1.0.0": {
+      "type": "project",
+      "path": "../HW6/HW6.csproj",
+      "msbuildProject": "../HW6/HW6.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "HW6 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\berkbasarir\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "\\\\Mac\\Home\\Desktop\\HW6\\HW6.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Desktop\\HW6\\HW6.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
