@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\KampIntro.csproj",
-      "projectName": "KampIntro",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\KampIntro.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\HW6\\HW6.csproj",
+      "projectName": "HW6",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\HW6\\HW6.csproj",
       "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\HW6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",
