@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{A3277809-A4C7-4182-B5F7-94FBDE836D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW6", "..\HW6\HW6.csproj", "{FE4975E1-C737-49B3-AF33-9568FB772D5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW6", "..\HW6\HW6.csproj", "{FE4975E1-C737-49B3-AF33-9568FB772D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "..\LinqProject\LinqProject.csproj", "{8E2FA55F-F9AE-4327-92AD-83F2C004D062}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{FE4975E1-C737-49B3-AF33-9568FB772D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE4975E1-C737-49B3-AF33-9568FB772D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE4975E1-C737-49B3-AF33-9568FB772D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2FA55F-F9AE-4327-92AD-83F2C004D062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2FA55F-F9AE-4327-92AD-83F2C004D062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2FA55F-F9AE-4327-92AD-83F2C004D062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2FA55F-F9AE-4327-92AD-83F2C004D062}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
