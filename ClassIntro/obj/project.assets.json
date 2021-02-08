@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ClassIntro\\ClassIntro.csproj",
+      "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ClassIntro\\ClassIntro.csproj",
       "projectName": "ClassIntro",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ClassIntro\\ClassIntro.csproj",
+      "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ClassIntro\\ClassIntro.csproj",
       "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ClassIntro\\obj\\",
+      "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ClassIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

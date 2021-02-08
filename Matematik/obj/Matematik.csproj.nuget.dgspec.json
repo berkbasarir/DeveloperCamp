@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Matematik\\Matematik.csproj": {}
+    "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Matematik\\Matematik.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Matematik\\Matematik.csproj": {
+    "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Matematik\\Matematik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Matematik\\Matematik.csproj",
+        "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Matematik\\Matematik.csproj",
         "projectName": "Matematik",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Matematik\\Matematik.csproj",
+        "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Matematik\\Matematik.csproj",
         "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Matematik\\obj\\",
+        "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Matematik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

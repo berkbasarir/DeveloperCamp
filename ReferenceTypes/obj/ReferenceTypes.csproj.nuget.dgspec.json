@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj": {}
+    "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj": {
+    "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj",
+        "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj",
         "projectName": "ReferenceTypes",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj",
+        "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ReferenceTypes\\ReferenceTypes.csproj",
         "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\ReferenceTypes\\obj\\",
+        "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\ReferenceTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

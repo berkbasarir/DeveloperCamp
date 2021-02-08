@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Koleksiyonlar\\Koleksiyonlar.csproj",
+      "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Koleksiyonlar\\Koleksiyonlar.csproj",
       "projectName": "Koleksiyonlar",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Koleksiyonlar\\Koleksiyonlar.csproj",
+      "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Koleksiyonlar\\Koleksiyonlar.csproj",
       "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Koleksiyonlar\\obj\\",
+      "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Koleksiyonlar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

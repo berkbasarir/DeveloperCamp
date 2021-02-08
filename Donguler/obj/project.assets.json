@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Donguler\\Donguler.csproj",
+      "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Donguler\\Donguler.csproj",
       "projectName": "Donguler",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Donguler\\Donguler.csproj",
+      "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Donguler\\Donguler.csproj",
       "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Donguler\\obj\\",
+      "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Donguler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

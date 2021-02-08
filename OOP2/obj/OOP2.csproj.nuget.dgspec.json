@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\OOP2\\OOP2.csproj": {}
+    "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\OOP2\\OOP2.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\OOP2\\OOP2.csproj": {
+    "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\OOP2\\OOP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\OOP2\\OOP2.csproj",
+        "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\OOP2\\OOP2.csproj",
         "projectName": "OOP2",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\OOP2\\OOP2.csproj",
+        "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\OOP2\\OOP2.csproj",
         "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\OOP2\\obj\\",
+        "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\OOP2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

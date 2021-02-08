@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
+      "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
       "projectName": "DegerveReferansTipler",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
+      "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
       "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\DegerveReferansTipler\\obj\\",
+      "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\DegerveReferansTipler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

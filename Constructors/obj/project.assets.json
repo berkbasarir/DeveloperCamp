@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Constructors\\Constructors.csproj",
+      "projectUniqueName": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Constructors\\Constructors.csproj",
       "projectName": "Constructors",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Constructors\\Constructors.csproj",
+      "projectPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Constructors\\Constructors.csproj",
       "packagesPath": "C:\\Users\\berkbasarir\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\Constructors\\obj\\",
+      "outputPath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\Constructors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\berkbasarir\\AppData\\Roaming\\NuGet\\NuGet.Config",

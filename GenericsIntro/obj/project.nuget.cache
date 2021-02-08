@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A8w/PKdfGo3WWHy6sd+X0spVNe/uO5KFS5RNZQz/oK4ZrKXOpemusulQob1RAJCVVODAPAPubw3hEUsbVk6ATw==",
+  "dgSpecHash": "FsOxI3/653SErR/1w7ProIUM6/eNdmrh03RKQkyvbuhlLCc9MrKPSoblAD+3KJQtygiuyNxV0EY4oG1s5YW8Lw==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Desktop\\DeveloperCamp\\GenericsIntro\\GenericsIntro.csproj",
+  "projectFilePath": "C:\\Users\\berkbasarir\\source\\repos\\DeveloperCamp\\GenericsIntro\\GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
